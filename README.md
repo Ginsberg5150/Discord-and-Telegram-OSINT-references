@@ -71,6 +71,8 @@ GitHub Resources:
 - Telegram Research - [webz.io/dwp/the-top-5-dark-web-telegram-chat-groups-and-channels-in-2022/](https://webz.io/dwp/the-top-5-dark-web-telegram-chat-groups-and-channels-in-2022/)
 - Malware families using platforms as C2 - [securityboulevard.com/2022/08/malware-families-love-telegram-discord-as-much-as-users/](https://securityboulevard.com/2022/08/malware-families-love-telegram-discord-as-much-as-users/)
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Discord resources
 
 # External lookups
