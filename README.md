@@ -106,6 +106,8 @@ GitHub Resources:
 - [https://discordpy.readthedocs.io/en/stable/index.html](https://discordpy.readthedocs.io/en/stable/index.html)
 - [https://discordlist.me/](https://discordlist.me/)
 
+
+# Internal lookups
 User details that can be extracted from Discord (authenticated):
 
 - User ID
@@ -123,13 +125,13 @@ User details that can be extracted from Discord (authenticated):
 
 discord.com/developers/docs/topics/opcodes-and-status-codes
 
-![](RackMultipart20220908-1-2zjiei_html_695e64b34562b24d.png)
+[opcode](RackMultipart20220908-1-2zjiei_html_695e64b34562b24d.png)
 
 ## Public Flag lookup for displayed badges:
 
 [github.com/Delitefully/DiscordLists/blob/master/flags.md](https://github.com/Delitefully/DiscordLists/blob/master/flags.md)
 
-![](RackMultipart20220908-1-2zjiei_html_2962b8af6ff65329.png)
+[Public Flag list](RackMultipart20220908-1-2zjiei_html_2962b8af6ff65329.png)
 
 These are the 'public\_flag' codes in the output from the user's account.
 
