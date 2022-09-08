@@ -71,7 +71,7 @@ GitHub Resources:
 
 ## Good site for additional research
 
-- Telegram OSINT Basics: 5 Tips Anyone Can Do Right Now - hatless1der.com
+- Telegram OSINT Basics: 5 Tips Anyone Can Do Right Now - [https://hatless1der.com/telegram-osint-basics-5-tips-anyone-can-do-right-now/](https://hatless1der.com/telegram-osint-basics-5-tips-anyone-can-do-right-now/)
 - How to conduct osint on telegram [- liferaftinc.com/blog/how-to-conduct-osint-on-telegram](https://www.liferaftinc.com/blog/how-to-conduct-osint-on-telegram)
 - Telegram for OSINT - [getsignal.info/blog/telegram-for-osint](https://www.getsignal.info/blog/telegram-for-osint)
 - Telegram Research - [webz.io/dwp/the-top-5-dark-web-telegram-chat-groups-and-channels-in-2022/](https://webz.io/dwp/the-top-5-dark-web-telegram-chat-groups-and-channels-in-2022/)
