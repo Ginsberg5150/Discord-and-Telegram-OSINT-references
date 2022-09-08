@@ -131,7 +131,7 @@ discord.com/developers/docs/topics/opcodes-and-status-codes
 
 [github.com/Delitefully/DiscordLists/blob/master/flags.md](https://github.com/Delitefully/DiscordLists/blob/master/flags.md)
 
-[Public Flag list](RackMultipart20220908-1-2zjiei_html_2962b8af6ff65329.png)
+[Public Flag list]<img src="Public_flag_codes.png" align="center">
 
 These are the 'public\_flag' codes in the output from the user's account.
 
