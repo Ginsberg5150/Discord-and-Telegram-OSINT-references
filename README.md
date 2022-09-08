@@ -41,6 +41,12 @@ GitHub Resources:
   - [https://github.com/pielco11/telescan](https://github.com/pielco11/telescan)
 - Telegram Python Tool – Geolocation telegram tool - tejado
   - https://github.com/tejado/telegram-nearby-map
+-Dutch OSINTguy Sans Telegram Resources
+  - https://github.com/Dutchosintguy/SANS--mic-talk-Telegram-17AUG2020
+-Sinwindie Discord Attack Surface Map
+  - https://github.com/sinwindie/OSINT/tree/master/Discord
+- Soxoj Maigret Telegram bot
+  - https://github.com/soxoj/maigret-tg-bot
 
 ## Telegram Group and channel search:
 
@@ -87,7 +93,8 @@ GitHub Resources:
 - https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0 - gateway info lookup
 - [https://github.com/discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 - [https://discord.js.org/#/](https://discord.js.org/)
--
+- [https://github.com/Dutchosintguy/OSINT-Discord-resources] (https://github.com/Dutchosintguy/OSINT-Discord-resources)
+- 
 
 ## User and Server Lookup Tools:
 
