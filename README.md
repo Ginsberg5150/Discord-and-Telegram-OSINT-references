@@ -14,6 +14,8 @@
   - [Telegago](https://cse.google.com/cse?q=%2B&cx=006368593537057042503%3Aefxu7xprihg)
 - Li Xiaomeng's Telegram Search engine
   - [Telegram Search](https://xtea.io/ts_en.html#gsc.tab=0)
+- PSE Bosintblanc:
+  - [Bosintblanc](https://cse.google.com/cse?cx=f22644e7cf7c34e97)
 
 ## Google Dorks:
 
