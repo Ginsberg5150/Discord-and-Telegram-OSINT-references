@@ -112,7 +112,7 @@ GitHub Resources:
 - [https://discord.com/developers/docs/reference](https://discord.com/developers/docs/reference)
 - [https://discordpy.readthedocs.io/en/stable/index.html](https://discordpy.readthedocs.io/en/stable/index.html)
 - [https://discordlist.me/](https://discordlist.me/)
-- [https://discord-tracker.ru/] (https://discord-tracker.ru/)
+- [https://discord-tracker.ru/](https://discord-tracker.ru/)
 
 
 # Internal lookups
