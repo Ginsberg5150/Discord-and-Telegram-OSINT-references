@@ -103,7 +103,7 @@ GitHub Resources:
 - [https://discord.name/](https://discord.name/)
 - [https://hugo.moe/discord/discord-id-creation-date.html](https://hugo.moe/discord/discord-id-creation-date.html) - takes all ID from the site (time stamp comments and channels as well as members)
 - [https://distools.app/lookup/guild](https://distools.app/lookup/guild) - not the best server lookup but will tell you members and info, possible invite code as well
-- [https://discord.me/servers/category/financial](https://discord.me/servers/category/financial)
+- [https://discord.me/servers/category](https://discord.me/servers/category)
 - [https://discordlookup.com/snowflake-distance](https://discordlookup.com/snowflake-distance) - use to look up the different between account by the creation date for ID
 - [https://discordlookup.com/user](https://discordlookup.com/user) - another ID lookup tool
 - [https://discord.com/developers/docs/topics/gateway](https://discord.com/developers/docs/topics/gateway)
@@ -112,6 +112,7 @@ GitHub Resources:
 - [https://discord.com/developers/docs/reference](https://discord.com/developers/docs/reference)
 - [https://discordpy.readthedocs.io/en/stable/index.html](https://discordpy.readthedocs.io/en/stable/index.html)
 - [https://discordlist.me/](https://discordlist.me/)
+- [https://discord-tracker.ru/] (https://discord-tracker.ru/)
 
 
 # Internal lookups
