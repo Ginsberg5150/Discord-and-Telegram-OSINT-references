@@ -100,7 +100,6 @@ GitHub Resources:
 
 - [https://lookup.guru/](https://lookup.guru/)
 - [https://discord.id/](https://discord.id/) - captcha rate limited
-- [https://discord.name/](https://discord.name/)
 - [https://hugo.moe/discord/discord-id-creation-date.html](https://hugo.moe/discord/discord-id-creation-date.html) - takes all ID from the site (time stamp comments and channels as well as members)
 - [https://distools.app/lookup/guild](https://distools.app/lookup/guild) - not the best server lookup but will tell you members and info, possible invite code as well
 - [https://discord.me/servers/category](https://discord.me/servers/category)
